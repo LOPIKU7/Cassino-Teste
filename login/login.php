@@ -29,8 +29,6 @@ if ( isset( $_POST['inputEmailLogin'] , $_POST['inputSenhaLogin'] ) && $_POST['i
             } else {
 
                 echo "Errada!";
-                echo "<a href="."../cadastro/cadastro.html"." rel="."noopener noreferrer".">Cadastro</a>";
-                
 
             }
 

@@ -2,9 +2,6 @@
     margin: 0px;
     padding: 0px;
 }
-.divH1{
-    text-align: center;
-}
 body{
     background-color: grey;
 }
@@ -18,6 +15,7 @@ body{
 }
 .nome{
     background-color: green;
+    position: fixed;
     color: gold;
     margin: 2% 0% 0% 2%;
     text-align: center;

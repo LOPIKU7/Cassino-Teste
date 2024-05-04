@@ -12,10 +12,7 @@
 </head>
 
 <body>
-    
-    <div class="divH1">
-        <h1>Casino meia Brasa</h1>
-    </div>
+        
     <div class="a">
         <button class="botaoCL">
             <a href="./cadastro/cadastro.html" target="_blank" rel="noopener noreferrer">Cadastro</a>
